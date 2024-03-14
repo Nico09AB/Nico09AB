@@ -1,4 +1,5 @@
 - Name: Nico09AB
+- Facts: Speaks 4 (2 not yet fluent) languages
 - Intrests: Complicated machinery
 - Discord: Nico09AB
 - Gmail: Nico09AB@gmail.com
