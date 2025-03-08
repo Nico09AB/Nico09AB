@@ -1,7 +1,7 @@
 - Name: Nicolas A.
 - Contact: nico09ab@icloud.com
 - Intrests: Anything complex
-- Coding Languages: HTML, CSS, Swift, 
+- Coding Languages: HTML, Java
 
 <!---
 Nico09AB/Nico09AB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
