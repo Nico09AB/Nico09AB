@@ -1,7 +1,7 @@
-- Name: Nicolas A.
-- Contact: nico09ab@icloud.com
+- Name: Nico09AB
+- Username: Zeon_J1
 - Intrests: Anything complex
-- Coding Languages: HTML, Java
+- Coding Languages: HTML, Java, JavaScript
 
 <!---
 Nico09AB/Nico09AB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
